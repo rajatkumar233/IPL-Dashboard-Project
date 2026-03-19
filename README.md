@@ -1,6 +1,6 @@
 # IPL Data Analysis Dashboard
 
-This project is about analyzing IPL (Indian Professional League) cricket data and showing the results in a nice dashboard.
+This project is about analyzing IPL (Indian Premier League) cricket data and showing the results in a nice dashboard.
 
 ## What This Project Does
 
